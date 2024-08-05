@@ -21,7 +21,7 @@
         
         %>
         <P>
-           your first number is <span style="color: red"><b><%=num1%></b></span> <br>and your second number is <span style="color: blue"><b><%=num2%></b></span> <br>
+           your first number is <span style="color: yellow"><b><%=num1%></b></span> <br>and your second number is <span style="color: blue"><b><%=num2%></b></span> <br>
            so the you final answer is <span style="color: palegreen"><b><%=sum%></b></span>
             
         </P>
