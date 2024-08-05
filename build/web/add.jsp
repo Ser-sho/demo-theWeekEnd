@@ -26,5 +26,6 @@
            so the you final answer is <span style="color: palegreen"><b><%=sum%></b></span>
             
         </P>
+        <p>Click <a href="index.html">Here</a> to go to the home page</p>
     </body>
 </html>
